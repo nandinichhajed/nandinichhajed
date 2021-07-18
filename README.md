@@ -8,6 +8,10 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Sketching and Painting
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandinichhajed&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <hr style="border:2px solid gray"> </hr>
