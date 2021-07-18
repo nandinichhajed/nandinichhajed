@@ -1,6 +1,6 @@
 ### Hi there 👋 Nandini Chhajed
 - 🔭 I’m currently working on Myself
-- 🌱 I’m currently learning Front - End Web Development
+- 🌱 I’m currently learning Back - End Web Development
 - 👯 I’m looking to collaborate on UI/UX Designing 
 - 🤔 I’m looking for help with CSS
 - 💬 Ask me about Graphic Designing
