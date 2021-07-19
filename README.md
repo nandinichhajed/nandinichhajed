@@ -7,6 +7,14 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandini-chhajed/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Sketching and Painting
+
+<!--   <a href="https://github.com/peterthehan"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
+  <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
+  <a href="https://discord.gg/WjEFnzC"><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32" src="assets/discord.svg"></a>
+  <a href="https://facebook.com/peterthehan"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
+  <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" height="32" width="32" src="assets/spotify.svg"></a>
+  <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+ -->
  
 ### Spotify Playing 🎧
 
@@ -40,7 +48,7 @@
   
 <hr style="border:2px solid gray"> </hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandinichhajed&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandinichhajed&count_private=true&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -52,12 +60,22 @@
 
 <hr style="border:2px solid gray"> </hr>
 
-### Recent Activity
+[![Nandini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=badjatya)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr style="border:2px solid gray"> </hr>
+
+<h4> 🏆 GitHub Trophies</h4>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nandinichhajed&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12541](https://github.com/zero-to-mastery/start-here-guidelines/issues/12541) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
 2. 💪 Opened PR [#12541](https://github.com/zero-to-mastery/start-here-guidelines/pull/12541) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
 <!--END_SECTION:activity-->
+</details>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/nandinichhajed/nandinichhajed)
 ![pv](https://pageview.vercel.app/?github_user=nandinichhajed)
