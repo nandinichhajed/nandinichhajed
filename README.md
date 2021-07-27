@@ -52,7 +52,7 @@
   
 <hr style="border:2px solid gray"> </hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandinichhajed&count_private=true&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandinichhajed&theme=dark)](https://git.io/streak-stats)
 
 <hr style="border:2px solid gray"> </hr>
 
