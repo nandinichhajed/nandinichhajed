@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on UI/UX Designing 
 - 🤔 I’m looking for help with CSS
 - 💬 Ask me about Graphic Designing
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandini-chhajed/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandinichhajed/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Sketching and Painting
 
