@@ -19,10 +19,6 @@
    <a href="https://open.spotify.com/user/31hszxd5eiag3q72badxrmc67c3u"><img alt="Spotify" height="32" width="32" src="assets/spotify.svg"></a>
   
 <p>
- 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nandini's Spotify Playing" width="350"/>](https://https://open.spotify.com/user/31hszxd5eiag3q72badxrmc67c3u)
 
 <!-- ### Languages & Tools 👨‍💻 🛠 -->
 <p>
