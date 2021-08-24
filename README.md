@@ -60,9 +60,9 @@
 
 <hr style="border:2px solid gray"> </hr>
 
-<!-- [![Nandini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandinichhajed)](https://github.com/anuraghazra/github-readme-stats)
+[![Nandini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandinichhajed)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr style="border:2px solid gray"> </hr> -->
+<hr style="border:2px solid gray"> </hr>
 
 <h4> 🏆 GitHub Trophies</h4>
 
