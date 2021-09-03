@@ -75,6 +75,7 @@
 1. 🗣 Commented on [#12541](https://github.com/zero-to-mastery/start-here-guidelines/issues/12541) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
 2. 💪 Opened PR [#12541](https://github.com/zero-to-mastery/start-here-guidelines/pull/12541) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
 <!--END_SECTION:activity-->
+   
 </details>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/nandinichhajed/nandinichhajed)
