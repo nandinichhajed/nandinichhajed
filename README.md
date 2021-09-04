@@ -72,8 +72,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12541](https://github.com/zero-to-mastery/start-here-guidelines/issues/12541) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-2. 💪 Opened PR [#12541](https://github.com/zero-to-mastery/start-here-guidelines/pull/12541) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+1. 💪 Opened PR [#15](https://github.com/AviralJain9/Chat-Bot/pull/15) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
+2. 💪 Opened PR [#14](https://github.com/AviralJain9/Chat-Bot/pull/14) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
 <!--END_SECTION:activity-->
    
 </details>
