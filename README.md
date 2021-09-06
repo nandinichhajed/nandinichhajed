@@ -72,10 +72,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/AviralJain9/Chat-Bot/pull/15) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
-2. 💪 Opened PR [#14](https://github.com/AviralJain9/Chat-Bot/pull/14) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
-3. 💪 Opened PR [#13](https://github.com/AviralJain9/Chat-Bot/pull/13) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
-4. 💪 Opened PR [#10](https://github.com/AviralJain9/Chat-Bot/pull/10) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
+1. 💪 Opened PR [#18](https://github.com/AviralJain9/Chat-Bot/pull/18) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
+2. 💪 Opened PR [#15](https://github.com/AviralJain9/Chat-Bot/pull/15) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
+3. 💪 Opened PR [#14](https://github.com/AviralJain9/Chat-Bot/pull/14) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
+4. 💪 Opened PR [#13](https://github.com/AviralJain9/Chat-Bot/pull/13) in [AviralJain9/Chat-Bot](https://github.com/AviralJain9/Chat-Bot)
 <!--END_SECTION:activity-->
    
 </details>
