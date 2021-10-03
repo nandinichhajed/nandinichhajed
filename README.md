@@ -72,10 +72,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/kheticulture/Kheticulture-backend/pull/24) in [kheticulture/Kheticulture-backend](https://github.com/kheticulture/Kheticulture-backend)
-2. ❌ Closed PR [#23](https://github.com/kheticulture/Kheticulture-backend/pull/23) in [kheticulture/Kheticulture-backend](https://github.com/kheticulture/Kheticulture-backend)
-3. 💪 Opened PR [#23](https://github.com/kheticulture/Kheticulture-backend/pull/23) in [kheticulture/Kheticulture-backend](https://github.com/kheticulture/Kheticulture-backend)
-4. 💪 Opened PR [#21](https://github.com/kheticulture/Kheticulture-backend/pull/21) in [kheticulture/Kheticulture-backend](https://github.com/kheticulture/Kheticulture-backend)
+1. 💪 Opened PR [#27](https://github.com/kheticulture/Kheticulture-backend/pull/27) in [kheticulture/Kheticulture-backend](https://github.com/kheticulture/Kheticulture-backend)
+2. 💪 Opened PR [#24](https://github.com/kheticulture/Kheticulture-backend/pull/24) in [kheticulture/Kheticulture-backend](https://github.com/kheticulture/Kheticulture-backend)
+3. ❌ Closed PR [#23](https://github.com/kheticulture/Kheticulture-backend/pull/23) in [kheticulture/Kheticulture-backend](https://github.com/kheticulture/Kheticulture-backend)
+4. 💪 Opened PR [#23](https://github.com/kheticulture/Kheticulture-backend/pull/23) in [kheticulture/Kheticulture-backend](https://github.com/kheticulture/Kheticulture-backend)
 <!--END_SECTION:activity-->
    
 </details>
