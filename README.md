@@ -72,10 +72,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/badjatya/CompetitiveProgramming/pull/70) in [badjatya/CompetitiveProgramming](https://github.com/badjatya/CompetitiveProgramming)
-2. 💪 Opened PR [#69](https://github.com/badjatya/CompetitiveProgramming/pull/69) in [badjatya/CompetitiveProgramming](https://github.com/badjatya/CompetitiveProgramming)
-3. 💪 Opened PR [#68](https://github.com/badjatya/CompetitiveProgramming/pull/68) in [badjatya/CompetitiveProgramming](https://github.com/badjatya/CompetitiveProgramming)
-4. 💪 Opened PR [#28](https://github.com/kheticulture/Kheticulture-backend/pull/28) in [kheticulture/Kheticulture-backend](https://github.com/kheticulture/Kheticulture-backend)
+1. 💪 Opened PR [#72](https://github.com/badjatya/CompetitiveProgramming/pull/72) in [badjatya/CompetitiveProgramming](https://github.com/badjatya/CompetitiveProgramming)
+2. 💪 Opened PR [#71](https://github.com/badjatya/CompetitiveProgramming/pull/71) in [badjatya/CompetitiveProgramming](https://github.com/badjatya/CompetitiveProgramming)
+3. 💪 Opened PR [#70](https://github.com/badjatya/CompetitiveProgramming/pull/70) in [badjatya/CompetitiveProgramming](https://github.com/badjatya/CompetitiveProgramming)
+4. 💪 Opened PR [#69](https://github.com/badjatya/CompetitiveProgramming/pull/69) in [badjatya/CompetitiveProgramming](https://github.com/badjatya/CompetitiveProgramming)
 <!--END_SECTION:activity-->
    
 </details>
