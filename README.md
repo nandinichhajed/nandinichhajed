@@ -60,10 +60,6 @@
 
 <hr style="border:2px solid gray"> </hr>
 
-[![Nandini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandinichhajed)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr style="border:2px solid gray"> </hr>
-
 <h4> 🏆 GitHub Trophies</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nandinichhajed&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
