@@ -10,11 +10,11 @@
 
 <p>
    <a href="https://linkedin.com/in/nandinichhajed"><img alt="LinkedIn" height="30" width="30" src="assets/linkedin.svg"></a>
-   <a href="https://www.instagram.com/nandini_chhajed_"><img alt="Instagram" height="30" width="30" src="assets/instagram.svg"></a>
+   <a href="https://www.instagram.com/nandinichhajed"><img alt="Instagram" height="30" width="30" src="assets/instagram.svg"></a>
    <a href="https://twitter.com/nandini_chhajed"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
-   <a href="https://mail.google.com/mail/u/0/#inbox"><img alt="Gmail" height="32" width="32" src="assets/gmail.svg"></a>
+<!--    <a href="https://mail.google.com/mail/u/0/#inbox"><img alt="Gmail" height="32" width="32" src="assets/gmail.svg"></a>
    <a href="https://discord.gg/QmjFxZ6m"><img alt="Discord - nandinichhajed#4689" title="Discord - nandinichhajed#4689" height="32" width="32" src="assets/discord.svg"></a>
-   <a href="https://github.com/nandinichhajed"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
+   <a href="https://github.com/nandinichhajed"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a> -->
    <a href="https://facebook.com/nandinichhajed08"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
    <a href="https://open.spotify.com/user/31hszxd5eiag3q72badxrmc67c3u"><img alt="Spotify" height="32" width="32" src="assets/spotify.svg"></a>
   
@@ -63,6 +63,10 @@
 <h4> 🏆 GitHub Trophies</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nandinichhajed&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr style="border:2px solid gray"> </hr>
+
+[![Nandini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandinichhajed)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
