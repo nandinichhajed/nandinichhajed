@@ -14,7 +14,7 @@
    <a href="https://twitter.com/nandini_chhajed"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRdsCcfNRNksvvgsGfjQwpPsNQXKXCzXgkMLvNWkbVjTqqslbqpPqfRdphMQSMlGJvGDGf"><img alt="Gmail" height="36" width="40" src="assets/gmail.svg" ></a>
    <a href="https://github.com/nandinichhajed"><img alt="GitHub" height="34" width="34" src="assets/1.svg"></a>
-<!--    <a href="https://discord.gg/QmjFxZ6m"><img alt="Discord - nandinichhajed#4689" title="Discord - nandinichhajed#4689" height="34" width="34" src="assets/discord.svg"></a> -->
+   <a href="https://discord.gg/QmjFxZ6m"><img alt="Discord - nandinichhajed#4689" title="Discord - nandinichhajed#4689" height="34" width="34" src="assets/discord.svg"></a>
    <a href="https://open.spotify.com/user/31hszxd5eiag3q72badxrmc67c3u"><img alt="Spotify" height="32" width="32" src="assets/spotify.svg"></a>
    <a href="https://facebook.com/nandinichhajed08"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
    
