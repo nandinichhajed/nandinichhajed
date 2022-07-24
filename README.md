@@ -78,7 +78,6 @@
 3. 💪 Opened PR [#71](https://github.com/badjatya/CompetitiveProgramming/pull/71) in [badjatya/CompetitiveProgramming](https://github.com/badjatya/CompetitiveProgramming)
 4. 💪 Opened PR [#70](https://github.com/badjatya/CompetitiveProgramming/pull/70) in [badjatya/CompetitiveProgramming](https://github.com/badjatya/CompetitiveProgramming)
 <!--END_SECTION:activity-->
-   
 </details>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/nandinichhajed/nandinichhajed)
