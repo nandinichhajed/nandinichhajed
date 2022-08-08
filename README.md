@@ -1,5 +1,5 @@
 ### Hi there 👋 Nandini Chhajed
-- 🔭 I’m currently working on Backend-Developement
+- 🔭 I’m currently working on Backend Developement
 - 🌱 I’m currently learning Back - End Web Development
 - 👯 I’m looking to Collaborate on UI/UX Designing 
 - 🤔 I’m looking for help with CSS
