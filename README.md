@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Backend Developement
 - 🌱 I’m currently learning Backend Web Development
 - 👯 I’m looking to Collaborate on UI/UX Designing 
-- 🤔 I’m looking for help with CSS
+- 🤔 I’m looking for help with CSS and JS
 - 💬 Ask me about Graphic Designing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandinichhajed/) || [E-Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRdsCcfNRNksvvgsGfjQwpPsNQXKXCzXgkMLvNWkbVjTqqslbqpPqfRdphMQSMlGJvGDGf)
 - 😄 Pronouns: She/Her
