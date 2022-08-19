@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with CSS and JS
 - 💬 Ask me about Graphic Designing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandinichhajed/) || [E-Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRdsCcfNRNksvvgsGfjQwpPsNQXKXCzXgkMLvNWkbVjTqqslbqpPqfRdphMQSMlGJvGDGf)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Sketching and Painting
 
 <p>
