@@ -7,7 +7,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandinichhajed/) || [E-Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRdsCcfNRNksvvgsGfjQwpPsNQXKXCzXgkMLvNWkbVjTqqslbqpPqfRdphMQSMlGJvGDGf)
 - ⚡ Fun fact: I love Sketching and Painting
 
-
 <p>
    <a href="https://linkedin.com/in/nandinichhajed"><img alt="LinkedIn" height="30" width="30" src="assets/linkedin.svg"></a>
    <a href="https://www.instagram.com/nandinichhajed"><img alt="Instagram" height="30" width="30" src="assets/instagram.svg"></a>
@@ -18,7 +17,6 @@
    <a href="https://open.spotify.com/user/31hszxd5eiag3q72badxrmc67c3u"><img alt="Spotify" height="32" width="32" src="assets/spotify.svg"></a>
    <a href="https://facebook.com/nandinichhajed08"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
    
-  
 <p>
 ### Languages & Tools
 <p>
@@ -46,7 +44,6 @@
 <p>
   
 <hr style="border:2px solid gray"> </hr>
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nandinichhajed&theme=dark)](https://git.io/streak-stats)
 
