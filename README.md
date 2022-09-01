@@ -16,8 +16,8 @@
    <a href="https://discord.gg/QmjFxZ6m"><img alt="Discord - nandinichhajed#4689" title="Discord - nandinichhajed#4689" height="34" width="34" src="assets/discord.svg"></a>
    <a href="https://open.spotify.com/user/31hszxd5eiag3q72badxrmc67c3u"><img alt="Spotify" height="32" width="32" src="assets/spotify.svg"></a>
    <a href="https://facebook.com/nandinichhajed08"><img alt="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
-   
 <p>
+
 ### Languages & Tools
 <p>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
