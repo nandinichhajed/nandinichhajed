@@ -1,4 +1,4 @@
-### Hi there 👋 Nandini Chhajed,
+### Hi there 👋 Nandini Chhajed
 - 🔭 I’m currently working on Backend Web Development
 - 🌱 I’m currently learning Backend Web Development
 - 👯 I’m looking to Collaborate on UI/UX Designing 
