@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Backend Web Development
 - 🌱 I’m currently learning HTML & CSS
 - 👯 I’m looking to Collaborate on UI/UX Designing 
-- 🤔 I’m looking for help with CSS & JS
+- 🤔 I’m looking for help with CSS & JavaScript 
 - 💬 Ask me about Graphic Designing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandinichhajed/) || [E-Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRdsCcfNRNksvvgsGfjQwpPsNQXKXCzXgkMLvNWkbVjTqqslbqpPqfRdphMQSMlGJvGDGf)
 - ⚡ Fun fact: I love Sketching and Painting
