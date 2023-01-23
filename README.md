@@ -7,7 +7,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandinichhajed/) || [E-Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRdsCcfNRNksvvgsGfjQwpPsNQXKXCzXgkMLvNWkbVjTqqslbqpPqfRdphMQSMlGJvGDGf)
 - ⚡ Fun fact: I love Sketching and Painting
 
-
 <p>
    <a href="https://linkedin.com/in/nandinichhajed"><img alt="LinkedIn" height="30" width="30" src="assets/linkedin.svg"></a>
    <a href="https://www.instagram.com/nandinichhajed"><img alt="Instagram" height="30" width="30" src="assets/instagram.svg"></a>
