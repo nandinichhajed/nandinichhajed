@@ -4,7 +4,7 @@
 - 👯 I’m looking to Collaborate on UI/UX Designing 
 - 🤔 I’m looking for help with CSS 
 - 💬 Ask me about Graphic Designing
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandinichhajed/) || [E-Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRdsCcfNRNksvvgsGfjQwpPsNQXKXCzXgkMLvNWkbVjTqqslbqpPqfRdphMQSMlGJvGDGf)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nandinichhajed/) | [E-Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRdsCcfNRNksvvgsGfjQwpPsNQXKXCzXgkMLvNWkbVjTqqslbqpPqfRdphMQSMlGJvGDGf)
 - ⚡ Fun fact: If you give me your photo i can create it's clone on paper
 
 <p>
